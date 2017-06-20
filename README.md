@@ -1,1 +1,1 @@
-# first
+# first command line prompt
